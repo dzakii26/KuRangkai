@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Ikon KuRangkai</title>
+  <desc id="desc">Buku terbuka dengan halaman membentuk alur rangkaian dan kilau kecerdasan buatan.</desc>
+  <defs>
+    <linearGradient id="bg" x1="72" y1="42" x2="449" y2="474" gradientUnits="userSpaceOnUse"><stop stop-color="#34745A"/><stop offset="1" stop-color="#173F34"/></linearGradient>
+    <linearGradient id="page" x1="128" y1="169" x2="391" y2="372" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#DCEBD4"/></linearGradient>
+    <filter id="shadow" x="67" y="128" width="378" height="291" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="13"/></filter>
+  </defs>
+  <rect width="512" height="512" rx="136" fill="url(#bg)"/>
+  <circle cx="91" cy="115" r="4" fill="#BFE3A1" opacity=".8"/><circle cx="421" cy="314" r="5" fill="#BFE3A1" opacity=".75"/><circle cx="122" cy="407" r="3" fill="#BFE3A1" opacity=".65"/>
+  <path d="M94 192c58-25 118-13 162 18 44-31 104-43 162-18v169c-58-25-118-13-162 18-44-31-104-43-162-18V192Z" fill="#102F28" opacity=".32" filter="url(#shadow)"/>
+  <path d="M92 179c59-24 117-13 164 18v184c-47-31-105-42-164-18V179Z" fill="url(#page)"/>
+  <path d="M420 179c-59-24-117-13-164 18v184c47-31 105-42 164-18V179Z" fill="#E7F1DE"/>
+  <path d="M256 197v184" fill="none" stroke="#9BB99A" stroke-width="9" stroke-linecap="round"/>
+  <!-- flowing study lines -->
+  <path d="M125 218c39-11 78-7 111 8M125 253c39-11 78-7 111 8M125 288c39-11 78-7 111 8" fill="none" stroke="#A7C4A5" stroke-width="8" stroke-linecap="round"/>
+  <path d="M276 228c34-16 67-19 101-12M276 263c34-16 67-19 101-12" fill="none" stroke="#98B99A" stroke-width="8" stroke-linecap="round"/>
+  <!-- connected idea nodes -->
+  <path d="M308 313h24l17-17h22" fill="none" stroke="#5E9471" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="308" cy="313" r="5" fill="#5E9471"/><circle cx="371" cy="296" r="7" fill="#D8F27C"/>
+  <path d="M372 69c9 31 23 45 54 54-31 9-45 23-54 54-9-31-23-45-54-54 31-9 45-23 54-54Z" fill="#D8F27C"/>
+  <path d="M423 191c4 14 10 20 24 24-14 4-20 10-24 24-4-14-10-20-24-24 14-4 20-10 24-24Z" fill="#BCE86C"/>
+  <path d="M91 367c58-24 117-13 165 18 48-31 107-42 165-18" fill="none" stroke="#D8F27C" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="91" cy="367" r="7" fill="#D8F27C"/><circle cx="421" cy="367" r="7" fill="#D8F27C"/>
+</svg>

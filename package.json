@@ -1,0 +1,7 @@
+﻿{
+  "name": "kurangkai-mvp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KuRangkai study summary and quiz app powered by Gemini",
+  "scripts": { "start": "node server.js" }
+}
